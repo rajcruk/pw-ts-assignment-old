@@ -19,7 +19,7 @@ The solution is provided using playwright and typescript using Page Object Model
     ```bash
      npx playwright install
     ``` 
-    * Add valid values for <userName>, <password> & <displayName> in `<your_drive>/hudl/fixtures/staticData.json`
+    * Add valid values for userName, password & displayName in `<your_drive>/hudl/fixtures/staticData.json`
 
 ### Execute
 * To run the tests use following commands from folder `<your_drive>/hudl`
